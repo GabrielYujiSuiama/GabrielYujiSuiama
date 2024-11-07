@@ -1,5 +1,7 @@
-## Hi there 👋
-## teste teste
+## Sejam Bem-Vindos ao Meu Mundo!<img src="https://media1.tenor.com/m/1uklp9zqO3oAAAAd/computer-typing.gif" width="100px">
+![Gif Anime Teclando](https://media1.tenor.com/m/1uklp9zqO3oAAAAd/computer-typing.gif)
+
+----------
 <!--
 **GabrielYujiSuiama/GabrielYujiSuiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
